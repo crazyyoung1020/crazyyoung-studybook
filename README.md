@@ -2,7 +2,7 @@
 
 - Phase001 算法
 
- - 2021.10.30 算法第一课
+  - 2021.10.30 算法第一课
  
     代码：[github算法仓库](https://github.com/crazyyoung1020/algorithm.git)
   
