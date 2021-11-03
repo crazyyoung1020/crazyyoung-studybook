@@ -14,3 +14,9 @@
   
     掘金文章：[掘金主页](https://juejin.cn/user/3333374985641806/posts)
     
+  - 2021.11.03 算法第二组五题
+    
+    题目地址：[开课吧算法第二套](https://school-exam.kaikeba.com/personal-root/public-exam/4271)
+    
+    代码：[github算法仓库](https://github.com/crazyyoung1020/algorithm.git)
+    
