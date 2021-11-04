@@ -23,4 +23,7 @@
     题目地址：[kkb算法](https://school-exam.kaikeba.com/personal-root/public-exam/4271)
     
     代码：[github算法仓库](https://github.com/crazyyoung1020/algorithm.git)
+  
+  - 2021.11.04 算法训练
+
     
