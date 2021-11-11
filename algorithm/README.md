@@ -25,7 +25,7 @@
 #### 2021.11.04-2021.11.05
 
 11. [x] 反转链表(reverse-linked-list)[leetcode地址](https://leetcode-cn.com/problems/UHnkqh/)
-12. [ ] 链表相交(getIntersectionNode)[leetcode地址](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
+12. [x] 链表相交(getIntersectionNode)[leetcode地址](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
 13. [ ] 旋转链表(rotate-list)[leetcode地址](https://leetcode-cn.com/problems/rotate-list/)
 14. [ ] 数据流中的第 K 大元素(KthLargest)[leetcode地址](https://leetcode-cn.com/problems/invert-binary-tree/)
 15. [ ] 翻转二叉树(invert-binary-tree)[leetcode地址](https://leetcode-cn.com/problems/invert-binary-tree/)
