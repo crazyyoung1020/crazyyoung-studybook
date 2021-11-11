@@ -24,6 +24,6 @@
     
     代码：[github算法仓库](https://github.com/crazyyoung1020/algorithm.git)
   
-  - 2021.11.04 算法训练
-
+  - 2021.11.11 
+      合并算法仓库到本仓库，后续所以学习的进度都会反馈到此仓库
     
