@@ -44,7 +44,7 @@
 
 #### 2021.11.08-2021.11.09
 
-21. [ ] 从尾到头打印链表 [leetcode地址](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
+21. [x] 从尾到头打印链表 [leetcode地址](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
 22. [ ] 返回倒数第 k 个节点 [leetcoe地址](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 23. [ ] 环形链表 [leetcode地址](https://leetcode-cn.com/problems/linked-list-cycle/)
 24. [ ] K 个一组翻转链表 [leetcode地址](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
