@@ -25,8 +25,8 @@
 #### 2021.11.04-2021.11.05
 
 11. [x] 反转链表(reverse-linked-list)[leetcode地址](https://leetcode-cn.com/problems/UHnkqh/)
-12. [ ] 链表相交(getIntersectionNode)[leetcode地址](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
-13. [ ] 旋转链表(rotate-list)[leetcode地址](https://leetcode-cn.com/problems/rotate-list/)
+12. [x] 链表相交(getIntersectionNode)[leetcode地址](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
+13. [x] 旋转链表(rotate-list)[leetcode地址](https://leetcode-cn.com/problems/rotate-list/)
 14. [ ] 数据流中的第 K 大元素(KthLargest)[leetcode地址](https://leetcode-cn.com/problems/invert-binary-tree/)
 15. [ ] 翻转二叉树(invert-binary-tree)[leetcode地址](https://leetcode-cn.com/problems/invert-binary-tree/)
 
@@ -44,7 +44,7 @@
 
 #### 2021.11.08-2021.11.09
 
-21. [ ] 从尾到头打印链表 [leetcode地址](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
+21. [x] 从尾到头打印链表 [leetcode地址](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
 22. [ ] 返回倒数第 k 个节点 [leetcoe地址](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 23. [ ] 环形链表 [leetcode地址](https://leetcode-cn.com/problems/linked-list-cycle/)
 24. [ ] K 个一组翻转链表 [leetcode地址](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
@@ -57,6 +57,30 @@
 28. [ ] 二分查找 [leetcode](https://leetcode-cn.com/problems/binary-search)
 29. [ ] 哈希_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
 30. [ ] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
+
+#### 2021.11.12-2021.11.13
+
+31. [ ] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
+32. [ ] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
+33. [ ] 两节点的最长路径[leetcode](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+34. [ ] 两个字符串包含的字符是否完全相同[leetcode](https://leetcode-cn.com/problems/valid-anagram/description/)
+35. [ ] 计算一组字符集合可以组成的回文字符串的最大长度[leetcode](https://leetcode-cn.com/problems/longest-palindrome/description/)
+
+#### 2021.11.15-11.16
+
+36. [ ] 最长公共子序列 [leetcode](https://leetcode-cn.com/problems/qJnOS7/)
+37. [ ] 买卖股票的最佳时机 [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
+38. [ ] 使用最小花费爬楼梯[leetcode](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+39. [ ] 翻回文子字符串个数转树[leetcode](https://leetcode.com/problems/invert-binary-tree/description/)
+40. [ ] 回文子字符串个数[leetcode](https://leetcode-cn.com/problems/palindromic-substrings/description/)
+
+
+
+
+
+
+
+
 
 
 
