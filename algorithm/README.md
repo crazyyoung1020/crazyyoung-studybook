@@ -58,13 +58,30 @@
 29. [ ] 哈希_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
 30. [ ] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
 
-#### 20201.11.12-2021.11.13
+#### 2021.11.12-2021.11.13
 
 31. [ ] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
 32. [ ] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
 33. [ ] 两节点的最长路径[leetcode](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 34. [ ] 两个字符串包含的字符是否完全相同[leetcode](https://leetcode-cn.com/problems/valid-anagram/description/)
 35. [ ] 计算一组字符集合可以组成的回文字符串的最大长度[leetcode](https://leetcode-cn.com/problems/longest-palindrome/description/)
+
+#### 2021.11.15-11.16
+
+36. [ ] 最长公共子序列 [leetcode](https://leetcode-cn.com/problems/qJnOS7/)
+37. [ ] 买卖股票的最佳时机 [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
+38. [ ] 使用最小花费爬楼梯[leetcode](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+39. [ ] 翻回文子字符串个数转树[leetcode](https://leetcode.com/problems/invert-binary-tree/description/)
+40. [ ] 回文子字符串个数[leetcode](https://leetcode-cn.com/problems/palindromic-substrings/description/)
+
+
+
+
+
+
+
+
+
 
 
 
