@@ -44,10 +44,5 @@ function insertionSort(arr) {
     return arr;
 }
 
-
-
-document.getElementById('button').onclick= ()=>{
-    let inputVal = document.getElementById('inputVal').value
-    let result = insertionSort(inputVal.split(',').map(Number))
-    document.getElementById('resultDiv').innerText = result
-}
+let arr = [1,2,4,5,67,7,8,2,1,1,2,4,5];
+console.log(insertionSort(arr));

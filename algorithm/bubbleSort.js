@@ -26,9 +26,3 @@ console.log(bubble(arr))
 
 
 // 菜鸟教程给的示例省略 
-
-document.getElementById('button').onclick= ()=>{
-    let inputVal = document.getElementById('inputVal').value
-    let result = bubbleSort(inputVal.split(',').map(Number))
-    document.getElementById('resultDiv').innerText = result
-}

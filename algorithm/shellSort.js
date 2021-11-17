@@ -3,16 +3,19 @@
  * 希尔排序
  */
 function shellSort(arr){
-    
+    var len = arr.length;
+    gap = Math.floor(len/2);
+    for(gap;gap>0;gap=Math.floor(gap/2)){
+        for(var i=gap;i<len;i++){
+            temp = arr[i];
+            for(var j = i-gap;j>=0 && arr[j]>temp;j-=gap){
+                arr[j+gap] = arr[j]
+            }
+            arr[j+gap] = temp;
+        }
+    }
 }
 
 
 let arr = [15,4,1,12,3,4,5]
-shellSort(arr)
-
-
-document.getElementById('button').onclick= ()=>{
-    let inputVal = document.getElementById('inputVal').value
-    let result = shellSort(inputVal.split(',').map(Number))
-    document.getElementById('resultDiv').innerText = result
-}
+console.log(shellSort(arr))

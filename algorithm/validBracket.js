@@ -53,10 +53,3 @@ var validBracket = function(s) {
     }
     return stack.length == 0
 };
-
-
-document.getElementById('button').onclick= ()=>{
-    let inputVal = document.getElementById('inputVal').value
-    let result = validBracket(inputVal)
-    document.getElementById('resultDiv').innerText = result
-}

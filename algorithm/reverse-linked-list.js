@@ -15,7 +15,7 @@ function ListNode(val, next) {
  * @return {ListNode}
  */
 
-let head = new ListNode()
+
  var reverseList = function(head) {
     let prev = null, curr = head
     while (curr) {
@@ -27,10 +27,5 @@ let head = new ListNode()
     return prev
 };
 
-
-document.getElementById('button').onclick= ()=>{
-    let inputVal = document.getElementById('inputVal').value
-    let head = new ListNode(JSON.parse(inputVal))
-    let result = reverseList(head)
-    document.getElementById('resultDiv').innerText = result
-}
+let head = new ListNode()
+console.log(reverseList(head))
