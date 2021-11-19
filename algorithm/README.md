@@ -2,7 +2,7 @@
 
   用于记录算法题的解法代码
   
-#### 2021.10.31-2021.11.01
+#### 2021.10.31-2021.11.01 第一套
 
 1. [x] 选择排序法(selectionSort)
 2. [x] 插入排序法([insertionSort](https://github.com/crazyyoung1020/algorithm/blob/main/insertionSort.js))
@@ -12,7 +12,7 @@
 
 <hr>
 
-#### 2021.11.02-2021.11.03
+#### 2021.11.02-2021.11.03 第二套
 
 6. [x] 栈_有效的括号(valid-parentheses) [leetcode地址](https://leetcode-cn.com/problems/valid-parentheses/)
 7. [x] 链表_合并两个排序的链(mergeTwoLists) [leetcode地址](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
@@ -22,7 +22,7 @@
 
 <hr>
 
-#### 2021.11.04-2021.11.05
+#### 2021.11.04-2021.11.05 第三套
 
 11. [x] 反转链表(reverse-linked-list)[leetcode地址](https://leetcode-cn.com/problems/UHnkqh/)
 12. [x] 链表相交(getIntersectionNode)[leetcode地址](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
@@ -32,7 +32,7 @@
 
 <hr>
 
-#### 2021.11.06-2021.11.07
+#### 2021.11.06-2021.11.07 第四套
 
 16. [ ] 平衡二叉树 [leetcode地址](https://leetcode-cn.com/problems/balanced-binary-tree)
 17. [ ] 二叉树的深度 [leetcode地址](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)
@@ -42,7 +42,7 @@
 
 <hr>
 
-#### 2021.11.08-2021.11.09
+#### 2021.11.08-2021.11.09 第五套
 
 21. [x] 从尾到头打印链表 [leetcode地址](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
 22. [ ] 返回倒数第 k 个节点 [leetcoe地址](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
@@ -50,7 +50,7 @@
 24. [ ] K 个一组翻转链表 [leetcode地址](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
 25. [ ] 只出现一次的数字 [leetcode地址](https://leetcode-cn.com/problems/WGki4K)
 
-#### 2021.11.10-2021.11.11
+#### 2021.11.10-2021.11.11 第六套
 
 26. [ ] 两数平方和[leetcode](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)
 27. [ ] 二路归并排序[leetcode](https://leetcode-cn.com/problems/sort-an-array/)
@@ -58,7 +58,7 @@
 29. [ ] 哈希_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
 30. [ ] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
 
-#### 2021.11.12-2021.11.13
+#### 2021.11.12-2021.11.13 第七套
 
 31. [ ] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
 32. [ ] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
@@ -66,7 +66,7 @@
 34. [ ] 两个字符串包含的字符是否完全相同[leetcode](https://leetcode-cn.com/problems/valid-anagram/description/)
 35. [ ] 计算一组字符集合可以组成的回文字符串的最大长度[leetcode](https://leetcode-cn.com/problems/longest-palindrome/description/)
 
-#### 2021.11.15-11.16
+#### 2021.11.15-11.16 第八套
 
 36. [ ] 最长公共子序列 [leetcode](https://leetcode-cn.com/problems/qJnOS7/)
 37. [ ] 买卖股票的最佳时机 [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
@@ -74,6 +74,13 @@
 39. [ ] 翻回文子字符串个数转树[leetcode](https://leetcode.com/problems/invert-binary-tree/description/)
 40. [ ] 回文子字符串个数[leetcode](https://leetcode-cn.com/problems/palindromic-substrings/description/)
 
+#### 2021.11.17-11.18 第九套
+
+41. [x] 链表中倒数第k个节点[leetcode](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+42. [ ] 复制带随机指针的链表[leetcode](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+43. [ ] 交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
+44. [ ] 两两交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+45. [ ] 合并 k 个升序链表 [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 
 
