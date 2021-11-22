@@ -79,7 +79,7 @@
 41. [x] 链表中倒数第k个节点[leetcode](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 42. [ ] 复制带随机指针的链表[leetcode](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 43. [x] 交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
-44. [ ] 两两交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+44. [x] 两两交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 45. [ ] 合并 k 个升序链表 [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 #### 2021.11.17-11.18 第十套
 
