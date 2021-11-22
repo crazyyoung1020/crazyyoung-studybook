@@ -78,9 +78,16 @@
 
 41. [x] 链表中倒数第k个节点[leetcode](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 42. [ ] 复制带随机指针的链表[leetcode](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
-43. [ ] 交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
+43. [x] 交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
 44. [ ] 两两交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 45. [ ] 合并 k 个升序链表 [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+#### 2021.11.17-11.18 第十套
+
+46. [ ] 二叉树的后序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+47. [ ] 验证二叉树的前序序列化[leetcode](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+48. [ ] 基本计算器 II[leetcode](https://leetcode-cn.com/problems/basic-calculator-ii/)
+49. [ ] 函数的独占时间[leetcode](https://leetcode-cn.com/problems/exclusive-time-of-functions/)
+50. [ ] 表现良好的最长时间段 [leetcode](https://leetcode-cn.com/problems/longest-well-performing-interval/)
 
 
 
