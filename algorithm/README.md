@@ -46,7 +46,7 @@
 
 21. [x] 从尾到头打印链表 [leetcode地址](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
 22. [ ] 返回倒数第 k 个节点 [leetcoe地址](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
-23. [ ] 环形链表 [leetcode地址](https://leetcode-cn.com/problems/linked-list-cycle/)
+23. [x] 环形链表 [leetcode地址](https://leetcode-cn.com/problems/linked-list-cycle/)
 24. [ ] K 个一组翻转链表 [leetcode地址](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
 25. [ ] 只出现一次的数字 [leetcode地址](https://leetcode-cn.com/problems/WGki4K)
 
@@ -91,7 +91,7 @@
 
 #### 2021.11.17-11.18 第十一套
 
-51. [ ] 环形链表 II[leetcode](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+51. [x] 环形链表 II[leetcode](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 52. [ ] 反转链表[leetcode](https://leetcode-cn.com/problems/reverse-linked-list)
 53. [ ] 反转链表 II[leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii)
 54. [ ] 删除链表的倒数第 N 个结点[leetcode](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
