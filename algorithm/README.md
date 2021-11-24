@@ -89,6 +89,15 @@
 49. [ ] 函数的独占时间[leetcode](https://leetcode-cn.com/problems/exclusive-time-of-functions/)
 50. [ ] 表现良好的最长时间段 [leetcode](https://leetcode-cn.com/problems/longest-well-performing-interval/)
 
+#### 2021.11.17-11.18 第十一套
+
+51. [ ] 环形链表 II[leetcode](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+52. [ ] 反转链表[leetcode](https://leetcode-cn.com/problems/reverse-linked-list)
+53. [ ] 反转链表 II[leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii)
+54. [ ] 删除链表的倒数第 N 个结点[leetcode](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
+55. [ ] 删除排序链表中的重复元素 [leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)
+56. [ ] 删除排序链表中的重复元素 II [leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)
+
 
 
 
