@@ -93,7 +93,7 @@
 
 51. [x] 环形链表 II[leetcode](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 52. [x] 反转链表[leetcode](https://leetcode-cn.com/problems/reverse-linked-list)
-53. [ ] 反转链表 II[leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii)
+53. [x] 反转链表 II[leetcode](https://leetcode-cn.com/problems/reverse-linked-list-ii)
 54. [ ] 删除链表的倒数第 N 个结点[leetcode](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
 55. [ ] 删除排序链表中的重复元素 [leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)
 56. [ ] 删除排序链表中的重复元素 II [leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)
