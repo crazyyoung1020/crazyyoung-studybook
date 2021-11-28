@@ -16,7 +16,7 @@
 
 6. [x] 栈_有效的括号(valid-parentheses) [leetcode地址](https://leetcode-cn.com/problems/valid-parentheses/)
 7. [x] 链表_合并两个排序的链(mergeTwoLists) [leetcode地址](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
-8. [ ] 二叉树_二叉树的前序遍(preorderTraversal)[leetcode地址](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+8. [x] 二叉树_二叉树的前序遍(preorderTraversal)[leetcode地址](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 9. [ ] 排序_计数排序(countingSort)[leetcode地址]
 10. [x] 基础_回文数(palindrome-number)[leetcode地址](https://leetcode-cn.com/problems/palindrome-number/)
 
