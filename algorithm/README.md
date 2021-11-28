@@ -100,11 +100,11 @@
 
 #### 2021.11.17-11.18 第十二套
 
-57. [ ] 分隔链表[leetcode](https://leetcode-cn.com/problems/partition-list)
-58. [ ] 设计循环队列[leetcode](https://leetcode-cn.com/problems/design-circular-queue)
-59. [ ] 设计循环双端队列[leetcode](https://leetcode-cn.com/problems/design-circular-deque)
-60. [ ] 设计前中后队列[leetcode](https://leetcode-cn.com/problems/design-front-middle-back-queue)
-61. [ ] 最近的请求次数 [leetcode](https://leetcode-cn.com/problems/number-of-recent-calls)
+57. [x] 分隔链表[leetcode](https://leetcode-cn.com/problems/partition-list)
+58. [x] 设计循环队列[leetcode](https://leetcode-cn.com/problems/design-circular-queue)
+59. [x] 设计循环双端队列[leetcode](https://leetcode-cn.com/problems/design-circular-deque)
+60. [x] 设计前中后队列[leetcode](https://leetcode-cn.com/problems/design-front-middle-back-queue)
+61. [x] 最近的请求次数 [leetcode](https://leetcode-cn.com/problems/number-of-recent-calls)
 
 
 
