@@ -58,7 +58,7 @@
 29. [ ] 哈希_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
 30. [ ] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
 
-#### 2021.11.12-2021.11.13 第七套
+#### 2021.11.12-2021.11.14 第七套
 
 31. [ ] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
 32. [ ] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
@@ -81,7 +81,7 @@
 43. [x] 交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
 44. [x] 两两交换链表中的节点[leetcode](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 45. [ ] 合并 k 个升序链表 [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
-#### 2021.11.17-11.18 第十套
+#### 2021.11.22-11.23 第十套
 
 46. [ ] 二叉树的后序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 47. [ ] 验证二叉树的前序序列化[leetcode](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
@@ -89,7 +89,7 @@
 49. [ ] 函数的独占时间[leetcode](https://leetcode-cn.com/problems/exclusive-time-of-functions/)
 50. [ ] 表现良好的最长时间段 [leetcode](https://leetcode-cn.com/problems/longest-well-performing-interval/)
 
-#### 2021.11.17-11.18 第十一套
+#### 2021.11.24-11.25 第十一套
 
 51. [x] 环形链表 II[leetcode](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 52. [x] 反转链表[leetcode](https://leetcode-cn.com/problems/reverse-linked-list)
@@ -98,7 +98,7 @@
 55. [x] 删除排序链表中的重复元素 [leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)
 56. [x] 删除排序链表中的重复元素 II [leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)
 
-#### 2021.11.17-11.18 第十二套
+#### 2021.11.26-11.28 第十二套
 
 57. [x] 分隔链表[leetcode](https://leetcode-cn.com/problems/partition-list)
 58. [x] 设计循环队列[leetcode](https://leetcode-cn.com/problems/design-circular-queue)
@@ -106,6 +106,13 @@
 60. [x] 设计前中后队列[leetcode](https://leetcode-cn.com/problems/design-front-middle-back-queue)
 61. [x] 最近的请求次数 [leetcode](https://leetcode-cn.com/problems/number-of-recent-calls)
 
+#### 2021.11.29-11.30 第十三套
+
+62. [x] 面试题第k个数 [leetcode](https://leetcode-cn.com/problems/get-kth-magic-number-lcci)
+63. [ ] 亲密字符串[leetcode](https://leetcode-cn.com/problems/buddy-strings)
+64. [ ] 柠檬水找零 [leetcode](https://leetcode-cn.com/problems/lemonade-change)
+65. [ ] 煎饼排序[leetcode](https://leetcode-cn.com/problems/pancake-sorting)
+66. [ ] 任务调度器 [leetcode](https://leetcode-cn.com/problems/task-scheduler)
 
 
 
