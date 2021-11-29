@@ -46,3 +46,8 @@
       [设计循环双端队列](https://juejin.cn/post/7035497735423787039)
       [最近的请求次数](https://juejin.cn/post/7035619672003199013)
       [二叉树的前序遍历](https://juejin.cn/post/7035673078197649421)
+
+  - 2021.11.29
+
+      完成了算法[面试题第k个数]，并输出掘金文章[面试题第k个数](https://juejin.cn/post/7036038796994936840)
+      看完了动态规划的相关文章，还有青蛙台阶的算法讲解，参考他人文章https://cloud.tencent.com/developer/article/1817113
