@@ -111,8 +111,8 @@
 62. [x] 面试题第k个数 [leetcode](https://leetcode-cn.com/problems/get-kth-magic-number-lcci)
 63. [x] 亲密字符串[leetcode](https://leetcode-cn.com/problems/buddy-strings)
 64. [x] 柠檬水找零 [leetcode](https://leetcode-cn.com/problems/lemonade-change)
-65. [ ] 煎饼排序[leetcode](https://leetcode-cn.com/problems/pancake-sorting)
-66. [ ] 任务调度器 [leetcode](https://leetcode-cn.com/problems/task-scheduler)
+65. [x] 煎饼排序[leetcode](https://leetcode-cn.com/problems/pancake-sorting)
+66. [x] 任务调度器 [leetcode](https://leetcode-cn.com/problems/task-scheduler)
 
 
 #### 2021.12.01-12.02 第十四套
