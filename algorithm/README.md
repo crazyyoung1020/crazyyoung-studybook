@@ -118,10 +118,10 @@
 #### 2021.12.01-12.02 第十四套
 
 67. [x]化栈为队[leetcode] (https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci )
-68. [x]球比赛[leetcode] (https://leetcode-cn.com/problems/baseball-game )
+68. [x]棒球比赛[leetcode] (https://leetcode-cn.com/problems/baseball-game )
 69. [x]比较含退格的字符串[leetcode] (https://leetcode-cn.com/problems/backspace-string-compare )
-70. [ ]证栈序列[leetcode] (https://leetcode-cn.com/problems/validate-stack-sequences )
-71. [ ]除最外层的括号[leetcode] (https://leetcode-cn.com/problems/remove-outermost-parentheses)
+70. [ ]验证栈序列[leetcode] (https://leetcode-cn.com/problems/validate-stack-sequences )
+71. [x]去除最外层的括号[leetcode] (https://leetcode-cn.com/problems/remove-outermost-parentheses)
 
 #### 2021.12.03-12.05 第十五套
 
