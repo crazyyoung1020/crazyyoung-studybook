@@ -59,9 +59,9 @@
 
   - 2021.12.5
 
-      完成了算法并输出掘金文章<br/>
-      [比较含退格的字符串] (https://juejin.cn/post/7038048237357531167)
-      [验证栈序列] (https://juejin.cn/post/7038147427030794271)
-      [剑指Offer复杂链表的复制](https://juejin.cn/post/7038217975207297037)
-      [删除中间节点](https://juejin.cn/post/7038235178031906824)
-      [两数相加 II](https://juejin.cn/post/7038253771322818573)
+      完成了算法<br/>
+      输出掘金文章[比较含退格的字符串](https://juejin.cn/post/7038048237357531167)<br/>
+      输出掘金文章[验证栈序列](https://juejin.cn/post/7038147427030794271)<br/>
+      输出掘金文章[剑指Offer复杂链表的复制](https://juejin.cn/post/7038217975207297037)<br/>
+      输出掘金文章[删除中间节点](https://juejin.cn/post/7038235178031906824)<br/>
+      输出掘金文章[两数相加 II](https://juejin.cn/post/7038253771322818573)<br/>
