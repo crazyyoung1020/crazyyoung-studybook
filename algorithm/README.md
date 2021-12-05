@@ -126,8 +126,8 @@
 #### 2021.12.03-12.05 第十五套
 
 72. [x]剑指Offer复杂链表的复制[leetcode](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof)
-73. [ ]删除中间节点[leetcode](https://leetcode-cn.com/problems/delete-middle-node-lcci)
-74. [ ]两数相加 II[leetcode](https://leetcode-cn.com/problems/add-two-numbers-ii)
+73. [x]删除中间节点[leetcode](https://leetcode-cn.com/problems/delete-middle-node-lcci)
+74. [x]两数相加 II[leetcode](https://leetcode-cn.com/problems/add-two-numbers-ii)
 75. [ ]重排链表[leetcode](https://leetcode-cn.com/problems/reorder-list)
 76. [ ]移除无效的括号[leetcode](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses)
 
