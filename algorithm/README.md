@@ -120,12 +120,12 @@
 67. [x]化栈为队[leetcode] (https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci )
 68. [x]棒球比赛[leetcode] (https://leetcode-cn.com/problems/baseball-game )
 69. [x]比较含退格的字符串[leetcode] (https://leetcode-cn.com/problems/backspace-string-compare )
-70. [ ]验证栈序列[leetcode] (https://leetcode-cn.com/problems/validate-stack-sequences )
+70. [x]验证栈序列[leetcode] (https://leetcode-cn.com/problems/validate-stack-sequences )
 71. [x]去除最外层的括号[leetcode] (https://leetcode-cn.com/problems/remove-outermost-parentheses)
 
 #### 2021.12.03-12.05 第十五套
 
-72. [ ]剑指Offer复杂链表的复制[leetcode](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof)
+72. [x]剑指Offer复杂链表的复制[leetcode](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof)
 73. [ ]删除中间节点[leetcode](https://leetcode-cn.com/problems/delete-middle-node-lcci)
 74. [ ]两数相加 II[leetcode](https://leetcode-cn.com/problems/add-two-numbers-ii)
 75. [ ]重排链表[leetcode](https://leetcode-cn.com/problems/reorder-list)
