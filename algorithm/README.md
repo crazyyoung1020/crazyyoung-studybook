@@ -131,7 +131,13 @@
 75. [x] 重排链表[leetcode](https://leetcode-cn.com/problems/reorder-list)
 76. [x] 移除无效的括号[leetcode](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses)
 
+#### 2021.12.06-12.07 第十六套
 
+77. [ ] 面试题 ：环路检测[leetcode](https://leetcode-cn.com/problems/linked-list-cycle-lcci)
+78. [ ] 设计链表[leetcode](https://leetcode-cn.com/problems/design-linked-list)
+79. [ ] 剑指 Offer： 删除链表的节点[leetcode](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)
+80. [ ] 分隔链表[leetcode](https://leetcode-cn.com/problems/split-linked-list-in-parts)
+81. [ ] 面试题：分割链表[leetcode](https://leetcode-cn.com/problems/partition-list-lcci)
 
 
 
