@@ -18,7 +18,7 @@
 7. [x] 链表_合并两个排序的链(mergeTwoLists) [leetcode地址](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
 8. [x] 二叉树_二叉树的前序遍(preorderTraversal)[leetcode地址](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 9. [ ] 排序_计数排序(countingSort)[leetcode地址]
-10. [x] 基础_回文数(palindrome-number)[leetcode地址](https://leetcode-cn.com/problems/palindrome-number/)
+10. [] 基础_回文数(palindrome-number)[leetcode地址](https://leetcode-cn.com/problems/palindrome-number/)
 
 <hr>
 
@@ -27,7 +27,7 @@
 11. [x] 反转链表(reverse-linked-list)[leetcode地址](https://leetcode-cn.com/problems/UHnkqh/)
 12. [x] 链表相交(getIntersectionNode)[leetcode地址](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
 13. [x] 旋转链表(rotate-list)[leetcode地址](https://leetcode-cn.com/problems/rotate-list/)
-14. [ ] 数据流中的第 K 大元素(KthLargest)[leetcode地址](https://leetcode-cn.com/problems/invert-binary-tree/)
+14. [ ] 数据流中的第 K 大元素(KthLargest)[leetcode地址](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 15. [ ] 翻转二叉树(invert-binary-tree)[leetcode地址](https://leetcode-cn.com/problems/invert-binary-tree/)
 
 <hr>
@@ -62,7 +62,7 @@
 
 31. [ ] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
 32. [ ] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
-33. [ ] 两节点的最长路径[leetcode](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+33. [ ] 两节点的最长路径[leetcode](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)
 34. [ ] 两个字符串包含的字符是否完全相同[leetcode](https://leetcode-cn.com/problems/valid-anagram/description/)
 35. [ ] 计算一组字符集合可以组成的回文字符串的最大长度[leetcode](https://leetcode-cn.com/problems/longest-palindrome/description/)
 
@@ -71,7 +71,7 @@
 36. [ ] 最长公共子序列 [leetcode](https://leetcode-cn.com/problems/qJnOS7/)
 37. [ ] 买卖股票的最佳时机 [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
 38. [ ] 使用最小花费爬楼梯[leetcode](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
-39. [ ] 翻回文子字符串个数转树[leetcode](https://leetcode.com/problems/invert-binary-tree/description/)
+39. [ ] 翻转二叉树[leetcode地址](https://leetcode-cn.com/problems/invert-binary-tree/)
 40. [ ] 回文子字符串个数[leetcode](https://leetcode-cn.com/problems/palindromic-substrings/description/)
 
 #### 2021.11.17-11.18 第九套
