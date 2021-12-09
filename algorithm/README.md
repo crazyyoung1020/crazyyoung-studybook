@@ -137,7 +137,15 @@
 78. [x] 设计链表[leetcode](https://leetcode-cn.com/problems/design-linked-list)
 79. [x] 剑指 Offer： 删除链表的节点[leetcode](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)
 80. [x] 分隔链表[leetcode](https://leetcode-cn.com/problems/split-linked-list-in-parts)
-81. [ ] 面试题：分割链表[leetcode](https://leetcode-cn.com/problems/partition-list-lcci)
+81. [x] 面试题：分割链表[leetcode](https://leetcode-cn.com/problems/partition-list-lcci)
+
+#### 2021.12.08-12.09 第十七套
+
+82. [ ] Offer 10： 斐波那契数列[leetcode](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)
+83. [ ] 路径总和[leetcode](https://leetcode-cn.com/problems/path-sum)
+84. [ ] 从前序与中序遍历序列构造二叉树[leetcode](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+85. [ ] 第K个语法符号[leetcode](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)
+86. [ ] 完全二叉树的节点个数[leetcode](https://leetcode-cn.com/problems/count-complete-tree-nodes)
 
 
 
