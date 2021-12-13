@@ -141,11 +141,24 @@
 
 #### 2021.12.08-12.09 第十七套
 
-82. [ ] Offer 10： 斐波那契数列[leetcode](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)
-83. [ ] 路径总和[leetcode](https://leetcode-cn.com/problems/path-sum)
+82. [x] Offer 10： 斐波那契数列[leetcode](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)
+83. [x] 路径总和[leetcode](https://leetcode-cn.com/problems/path-sum)
 84. [ ] 从前序与中序遍历序列构造二叉树[leetcode](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
-85. [ ] 第K个语法符号[leetcode](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)
+85. [x] 第K个语法符号[leetcode](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)
 86. [ ] 完全二叉树的节点个数[leetcode](https://leetcode-cn.com/problems/count-complete-tree-nodes)
 
+#### 2021.12.10-12.12 第十八套  
 
+87. [ ] 剑指 Offer：二叉搜索树的第k大节点[leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)
+88. [ ] 剑指 Offer： 树的子结构[leetcode](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)
+89. [ ] 监控二叉树[leetcode](https://leetcode-cn.com/problems/binary-tree-cameras)
+90. [ ] 二叉树最大宽度[leetcode](https://leetcode-cn.com/problems/maximum-width-of-binary-tree)
+91. [ ] 二叉树的前序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)
 
+#### 2021.12.13-12.14 第十九套
+
+92. [ ] N 叉树的前序遍历[leetcode](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)
+93. [ ] 翻转二叉树[leetcode](https://leetcode-cn.com/problems/invert-binary-tree)
+94. [ ] 剑指 Offer：从上到下打印二叉数II[leetcode](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof)
+95. [ ] 二叉树的层序遍历 II[leetcode](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)
+96. [ ] 二叉树的锯齿形层序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)
