@@ -36,8 +36,8 @@
 
 16. [ ] 平衡二叉树 [leetcode地址](https://leetcode-cn.com/problems/balanced-binary-tree)
 17. [ ] 二叉树的深度 [leetcode地址](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)
-18. [ ] 搜索插入位置 [leetcode地址](https://leetcode-cn.com/problems/search-insert-position/)
-19. [ ] 罗马数字转整数 [leetcode地址](https://leetcode-cn.com/problems/roman-to-integer)
+18. [x] 搜索插入位置 [leetcode地址](https://leetcode-cn.com/problems/search-insert-position/)
+19. [x] 罗马数字转整数 [leetcode地址](https://leetcode-cn.com/problems/roman-to-integer)
 20. [ ] 反转字符串 [leetcode地址](https://leetcode-cn.com/problems/reverse-string/)
 
 <hr>
@@ -54,7 +54,7 @@
 
 26. [ ] 两数平方和[leetcode](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)
 27. [ ] 二路归并排序[leetcode](https://leetcode-cn.com/problems/sort-an-array/)
-28. [ ] 二分查找 [leetcode](https://leetcode-cn.com/problems/binary-search)
+28. [x] 二分查找 [leetcode](https://leetcode-cn.com/problems/binary-search)
 29. [ ] 哈希_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
 30. [ ] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
 
