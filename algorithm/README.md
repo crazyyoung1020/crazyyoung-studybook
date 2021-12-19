@@ -150,7 +150,7 @@
 #### 2021.12.10-12.12 第十八套  
 
 87. [x] 剑指 Offer：二叉搜索树的第k大节点[leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)
-88. [ ] 剑指 Offer： 树的子结构[leetcode](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)
+88. [x] 剑指 Offer： 树的子结构[leetcode](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)
 89. [ ] 监控二叉树[leetcode](https://leetcode-cn.com/problems/binary-tree-cameras)
 90. [ ] 二叉树最大宽度[leetcode](https://leetcode-cn.com/problems/maximum-width-of-binary-tree)
 91. [ ] 二叉树的前序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)
