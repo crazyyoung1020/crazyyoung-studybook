@@ -14,11 +14,11 @@
 
 #### 2021.11.02-2021.11.03 第二套
 
-6. [x] 栈_有效的括号(valid-parentheses) [leetcode地址](https://leetcode-cn.com/problems/valid-parentheses/)
-7. [x] 链表_合并两个排序的链(mergeTwoLists) [leetcode地址](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
-8. [x] 二叉树_二叉树的前序遍历(preorderTraversal)[leetcode地址](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
-9. [ ] 排序_计数排序(countingSort)[leetcode地址]
-10. [x] 基础_回文数(palindrome-number)[leetcode地址](https://leetcode-cn.com/problems/palindrome-number/)
+6. [x] 有效的括号(valid-parentheses) [leetcode地址](https://leetcode-cn.com/problems/valid-parentheses/)
+7. [x] 合并两个排序的链(mergeTwoLists) [leetcode地址](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
+8. [x] 二叉树的前序遍历(preorderTraversal)[leetcode地址](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+9. [ ] 计数排序(countingSort)[leetcode地址]
+10. [x] 回文数(palindrome-number)[leetcode地址](https://leetcode-cn.com/problems/palindrome-number/)
 
 <hr>
 
@@ -143,13 +143,13 @@
 
 82. [x] Offer 10： 斐波那契数列[leetcode](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)
 83. [x] 路径总和[leetcode](https://leetcode-cn.com/problems/path-sum)
-84. [ ] 从前序与中序遍历序列构造二叉树[leetcode](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+84. [x] 从前序与中序遍历序列构造二叉树[leetcode](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 85. [x] 第K个语法符号[leetcode](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)
-86. [ ] 完全二叉树的节点个数[leetcode](https://leetcode-cn.com/problems/count-complete-tree-nodes)
+86. [x] 完全二叉树的节点个数[leetcode](https://leetcode-cn.com/problems/count-complete-tree-nodes)
 
 #### 2021.12.10-12.12 第十八套  
 
-87. [ ] 剑指 Offer：二叉搜索树的第k大节点[leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)
+87. [x] 剑指 Offer：二叉搜索树的第k大节点[leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)
 88. [ ] 剑指 Offer： 树的子结构[leetcode](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)
 89. [ ] 监控二叉树[leetcode](https://leetcode-cn.com/problems/binary-tree-cameras)
 90. [ ] 二叉树最大宽度[leetcode](https://leetcode-cn.com/problems/maximum-width-of-binary-tree)
