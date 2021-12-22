@@ -2,6 +2,65 @@
 
 - Phase001 算法
 
+  - 2021.12.19
+
+      完成了算法<br/>
+      输出掘金文章[从前序与中序遍历序列构造二叉树](https://juejin.cn/post/7043098629380243469)<br/>
+      输出掘金文章[完全二叉树的节点个数](https://juejin.cn/post/7043270368219365384)<br/>
+      输出掘金文章[二叉搜索树的第k大节点](https://juejin.cn/post/7043283205713035277)<br/>
+      输出掘金文章[树的子结构](https://juejin.cn/post/7043355078115196935)<br/>
+
+  - 2021.12.16
+
+      完成了算法<br/>
+      输出掘金文章[搜索插入位置](https://juejin.cn/post/7041978313509699621)<br/>
+
+  - 2021.12.15
+
+      完成了算法<br/>
+      输出掘金文章[数据流中的第 K 大元素](https://juejin.cn/post/7041606398592942111)<br/>
+      输出掘金文章[罗马数字转整数](https://juejin.cn/post/7041953893445533709)<br/>
+
+  - 2021.12.14
+
+      完成了算法<br/>
+      输出掘金文章[回文数](https://juejin.cn/post/7041240170863001613)<br/>
+
+  - 2021.12.12
+
+      完成了算法<br/>
+      输出掘金文章[第K个语法符号](https://juejin.cn/post/7040641159365918734)<br/>
+
+  - 2021.12.11
+
+      完成了算法<br/>
+      输出掘金文章[斐波那契数列](https://juejin.cn/post/7040280864617398308)<br/>
+      输出掘金文章[路径总和](https://juejin.cn/post/7040379315350929416)<br/>
+
+  - 2021.12.10
+
+      完成了算法<br/>
+      输出掘金文章[分割链表](https://juejin.cn/post/7039754805601894413)<br/>
+
+  - 2021.12.9
+
+      完成了算法<br/>
+      输出掘金文章[分隔链表](https://juejin.cn/post/7039378572363956260)<br/>
+
+  - 2021.12.8
+
+      完成了算法<br/>
+      输出掘金文章[设计链表](https://juejin.cn/post/7039011320561139749)<br/>
+      输出掘金文章[环路检测](https://juejin.cn/post/7039344082006573092)<br/>
+      输出掘金文章[删除链表的节点](https://juejin.cn/post/7039351602875990047)<br/>
+
+  - 2021.12.6
+
+      完成了算法<br/>
+      输出掘金文章[删除最外层的括号](https://juejin.cn/post/7038068034216394760)<br/>
+      输出掘金文章[重排链表](https://juejin.cn/post/7038583983369781261)<br/>
+      输出掘金文章[移除无效的括号](https://juejin.cn/post/7038632719886057480)<br/>
+
   - 2021.12.5
 
       完成了算法<br/>
@@ -37,31 +96,25 @@
       输出删除链表的倒数第N个结点掘金文章，[链接](https://juejin.cn/post/7034293284595826701)<br/>
       输出删除排序链表中的重复元素II掘金文章，[链接](https://juejin.cn/post/7034293284595826701)
 
-  - 2021.11.24
-
-      完成了第十一套题的前两题的解答和理解，笔记记录在掘金草稿箱，明天整理发出来
-
+  - 2021.11.13
+  
+      完成leetcode 61.旋转链表
+      
+      掘金输出文章地址 [旋转链表](https://juejin.cn/post/7029974914761228296)
   - 2021.11.11 
   
-      合并算法仓库到本仓库，后续所以学习的进度都会反馈到此仓库
+      合并算法仓库到本仓库，后续所以学习的进度都会反馈到此仓库<br>
       完成了链表相交和反转链表
       
       掘金输出文章地址 [链表相交](https://juejin.cn/post/7029342152425472013)
 
-  - 2021.11.03 算法第二组五题
     
-    题目地址：[kkb算法](https://school-exam.kaikeba.com/personal-root/public-exam/4271)
-    
-    代码：[github算法仓库](https://github.com/crazyyoung1020/algorithm.git)
+
 
   - 2021.10.31 算法排序五题
 
-    题目地址：[kkb算法](https://school-exam.kaikeba.com/personal-root/public-exam/4039)
-  
-    代码：[github算法仓库](https://github.com/crazyyoung1020/algorithm.git)
-
-  - 2021.10.30 算法第一课
-    
-    题目地址：[kkb算法](https://school-exam.kaikeba.com/personal-table/public-login/4032)
- 
-    代码：[github算法仓库](https://github.com/crazyyoung1020/algorithm.git)
+    选择排序<br>
+    插入排序<br>
+    冒泡排序<br>
+    希尔排序<br>
+    快速排序<br>
