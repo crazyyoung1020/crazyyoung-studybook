@@ -181,10 +181,10 @@
 #### 2021.12.20-12.21 第二十二套
 
 107. [x] 积压订单中的订单总数[leetcode](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog)
-108. [ ] 丑数 II[leetcode](https://leetcode-cn.com/problems/ugly-number-ii) 
-109. [ ] 超级丑数[leetcode](https://leetcode-cn.com/problems/super-ugly-number) 
-110. [ ] 移除石子的最大得分[leetcode](https://leetcode-cn.com/problems/maximum-score-from-removing-stones) 
-111. [ ] 二叉树的最大深度[leetcode](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)
+108. [x] 丑数 II[leetcode](https://leetcode-cn.com/problems/ugly-number-ii) 
+109. [x] 超级丑数[leetcode](https://leetcode-cn.com/problems/super-ugly-number) 
+110. [x] 移除石子的最大得分[leetcode](https://leetcode-cn.com/problems/maximum-score-from-removing-stones) 
+111. [x] 二叉树的最大深度[leetcode](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)
 
 #### 2021.12.22-12.23 第二十三套
 
