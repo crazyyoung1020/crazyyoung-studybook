@@ -180,7 +180,7 @@
 
 #### 2021.12.20-12.21 第二十二套
 
-107. [ ] 积压订单中的订单总数[leetcode](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog)
+107. [x] 积压订单中的订单总数[leetcode](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog)
 108. [ ] 丑数 II[leetcode](https://leetcode-cn.com/problems/ugly-number-ii) 
 109. [ ] 超级丑数[leetcode](https://leetcode-cn.com/problems/super-ugly-number) 
 110. [ ] 移除石子的最大得分[leetcode](https://leetcode-cn.com/problems/maximum-score-from-removing-stones) 
