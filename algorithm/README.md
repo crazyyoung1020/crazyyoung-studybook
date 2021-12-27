@@ -202,3 +202,10 @@
 120. [ ] 最接近原点的 K 个点 [leetcode](https://leetcode-cn.com/problems/k-closest-points-to-origin )
 121. [ ] 根据字符出现频率排序 [leetcode](https://leetcode-cn.com/problems/sort-characters-by-frequency )
 
+#### 2021.12.27-12.28 第二十五套
+
+122. [ ]省份数量 [leetcode](https://leetcode-cn.com/problems/number-of-provinces )
+123. [ ]岛屿数量 [leetcode](https://leetcode-cn.com/problems/number-of-islands )
+124. [ ]等式方程的可满足性 [leetcode](https://leetcode-cn.com/problems/satisfiability-of-equality-equations )
+125. [ ]冗余连接 [leetcode](https://leetcode-cn.com/problems/redundant-connection )
+126. [ ]连通网络的操作次数 [leetcode](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)
