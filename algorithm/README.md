@@ -198,7 +198,7 @@
 
 117. [x] 剑指 Offer  二叉搜索树的最近公共祖先 [leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof )
 118. [x] 二叉树中的最大路径和 [leetcode](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum )
-119. [ ] 前 K 个高频元素 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements )
+119. [x] 前 K 个高频元素 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements )
 120. [ ] 最接近原点的 K 个点 [leetcode](https://leetcode-cn.com/problems/k-closest-points-to-origin )
 121. [ ] 根据字符出现频率排序 [leetcode](https://leetcode-cn.com/problems/sort-characters-by-frequency )
 
