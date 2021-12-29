@@ -199,7 +199,7 @@
 117. [x] 剑指 Offer  二叉搜索树的最近公共祖先 [leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof )
 118. [x] 二叉树中的最大路径和 [leetcode](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum )
 119. [x] 前 K 个高频元素 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements )
-120. [ ] 最接近原点的 K 个点 [leetcode](https://leetcode-cn.com/problems/k-closest-points-to-origin )
+120. [x] 最接近原点的 K 个点 [leetcode](https://leetcode-cn.com/problems/k-closest-points-to-origin )
 121. [ ] 根据字符出现频率排序 [leetcode](https://leetcode-cn.com/problems/sort-characters-by-frequency )
 
 #### 2021.12.27-12.28 第二十五套
@@ -209,3 +209,12 @@
 124. [ ]等式方程的可满足性 [leetcode](https://leetcode-cn.com/problems/satisfiability-of-equality-equations )
 125. [ ]冗余连接 [leetcode](https://leetcode-cn.com/problems/redundant-connection )
 126. [ ]连通网络的操作次数 [leetcode](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)
+
+#### 2021.12.29-12.30 第二十六套
+
+127. [ ] 最长连续序列 [leetcode](https://leetcode-cn.com/problems/longest-consecutive-sequence)
+128. [ ] 移除最多的同行或同列石头 [leetcode](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column)
+129. [ ] 交换字符串中的元素 [leetcode](https://leetcode-cn.com/problems/smallest-string-with-swaps)
+130. [ ] 账户合并 [leetcode](https://leetcode-cn.com/problems/accounts-merge)
+131. [ ] 情侣牵手 [leetcode](https://leetcode-cn.com/problems/couples-holding-hands)
+
