@@ -218,3 +218,11 @@
 130. [ ] 账户合并 [leetcode](https://leetcode-cn.com/problems/accounts-merge)
 131. [ ] 情侣牵手 [leetcode](https://leetcode-cn.com/problems/couples-holding-hands)
 
+
+#### 2021.12.31-1.2 第二十七套
+
+132. [ ] 冗余连接 II [leetcode](https://leetcode-cn.com/problems/redundant-connection-ii )
+133. [ ] 滑动窗口最大值 [leetcode](https://leetcode-cn.com/problems/sliding-window-maximum )
+134. [ ] 用 Rand7() 实现 Rand10() [leetcode](https://leetcode-cn.com/problems/implement-rand10-using-rand7 )
+135. [ ] 盛最多水的容器 [leetcode](https://leetcode-cn.com/problems/container-with-most-water )
+136. [ ] 字符串解码 [leetcode](https://leetcode-cn.com/problems/decode-string)
