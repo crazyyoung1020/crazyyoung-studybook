@@ -206,8 +206,8 @@
 
 122. [x]省份数量 [leetcode](https://leetcode-cn.com/problems/number-of-provinces )
 123. [x]岛屿数量 [leetcode](https://leetcode-cn.com/problems/number-of-islands )
-124. [ ]等式方程的可满足性 [leetcode](https://leetcode-cn.com/problems/satisfiability-of-equality-equations )
-125. [ ]冗余连接 [leetcode](https://leetcode-cn.com/problems/redundant-connection )
+124. [x]等式方程的可满足性 [leetcode](https://leetcode-cn.com/problems/satisfiability-of-equality-equations )
+125. [x]冗余连接 [leetcode](https://leetcode-cn.com/problems/redundant-connection )
 126. [ ]连通网络的操作次数 [leetcode](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)
 
 #### 2021.12.29-12.30 第二十六套
