@@ -229,8 +229,17 @@
 
 #### 2021.1.4-1.5 第二十八套
 
-137. 394.字符串解码 [leetcode](https://leetcode-cn.com/problems/decode-string )
-138. 95.不同的二叉搜索树 II [leetcode](https://leetcode-cn.com/problems/unique-binary-search-trees-ii )
-139. 75.颜色分类 [leetcode](https://leetcode-cn.com/problems/sort-colors )
-140. 面试题 17.14. 最小K个数 [leetcode](https://leetcode-cn.com/problems/smallest-k-lcci )
-141. 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [leetcode](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)
+137. [ ] 394.字符串解码 [leetcode](https://leetcode-cn.com/problems/decode-string )
+138. [ ] 95.不同的二叉搜索树 II [leetcode](https://leetcode-cn.com/problems/unique-binary-search-trees-ii )
+139. [ ] 75.颜色分类 [leetcode](https://leetcode-cn.com/problems/sort-colors )
+140. [ ] 面试题 17.14. 最小K个数 [leetcode](https://leetcode-cn.com/problems/smallest-k-lcci )
+141. [ ] 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [leetcode](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)
+
+
+#### 2021.1.7-2021.1.9
+
+142. [ ] 排序数组 [leetcode](https://leetcode-cn.com/problems/sort-an-array )
+143. [ ] 剑指 Offer 51. 数组中的逆序对 [leetcode](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof )
+144. [ ] 排序链表 [leetcode](https://leetcode-cn.com/problems/sort-list )
+145. [ ] 两棵二叉搜索树中的所有元素 [leetcode](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees )
+146. [ ] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
