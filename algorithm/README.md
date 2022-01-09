@@ -1,7 +1,7 @@
 # 算法代码仓库
 
   用于记录算法题的解法代码
-  
+
 #### 2021.10.31-2021.11.01 第一套
 
 1. [x] 选择排序法(selectionSort)
@@ -208,13 +208,13 @@
 123. [x]岛屿数量 [leetcode](https://leetcode-cn.com/problems/number-of-islands )
 124. [x]等式方程的可满足性 [leetcode](https://leetcode-cn.com/problems/satisfiability-of-equality-equations )
 125. [x]冗余连接 [leetcode](https://leetcode-cn.com/problems/redundant-connection )
-126. [ ]连通网络的操作次数 [leetcode](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)
+126. [x]连通网络的操作次数 [leetcode](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)
 
 #### 2021.12.29-12.30 第二十六套
 
-127. [ ] 最长连续序列 [leetcode](https://leetcode-cn.com/problems/longest-consecutive-sequence)
-128. [ ] 移除最多的同行或同列石头 [leetcode](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column)
-129. [ ] 交换字符串中的元素 [leetcode](https://leetcode-cn.com/problems/smallest-string-with-swaps)
+127. [x] 最长连续序列 [leetcode](https://leetcode-cn.com/problems/longest-consecutive-sequence)
+128. [x] 移除最多的同行或同列石头 [leetcode](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column)
+129. [x] 交换字符串中的元素 [leetcode](https://leetcode-cn.com/problems/smallest-string-with-swaps)
 130. [ ] 账户合并 [leetcode](https://leetcode-cn.com/problems/accounts-merge)
 131. [ ] 情侣牵手 [leetcode](https://leetcode-cn.com/problems/couples-holding-hands)
 
@@ -243,3 +243,12 @@
 144. [ ] 排序链表 [leetcode](https://leetcode-cn.com/problems/sort-list )
 145. [ ] 两棵二叉搜索树中的所有元素 [leetcode](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees )
 146. [ ] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
+
+
+
+
+
+
+
+
+
