@@ -4,6 +4,7 @@
 
 #### 2021.10.31-2021.11.01 第一套
 
+排序数组 [leetcoe](https://leetcode-cn.com/problems/sort-an-array/)
 1. [x] 选择排序法(selectionSort)
 2. [x] 插入排序法([insertionSort](https://github.com/crazyyoung1020/algorithm/blob/main/insertionSort.js))
 3. [x] 冒泡排序法(bubbleSort)
@@ -48,7 +49,7 @@
 22. [ ] 返回倒数第 k 个节点 [leetcoe地址](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 23. [x] 环形链表 [leetcode地址](https://leetcode-cn.com/problems/linked-list-cycle/)
 24. [ ] K 个一组翻转链表 [leetcode地址](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
-25. [ ] 只出现一次的数字 [leetcode地址](https://leetcode-cn.com/problems/WGki4K)
+25. [x] 只出现一次的数字 [leetcode地址](https://leetcode-cn.com/problems/WGki4K)
 
 #### 2021.11.10-2021.11.11 第六套
 
