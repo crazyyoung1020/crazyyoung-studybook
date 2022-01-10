@@ -25,9 +25,11 @@ const currying = function(fn) {
         // 如果已经接收的参数个数还不够，用现有的参数当作初始参数去返回一个新函数，来接收剩余参数
         if (_args.length < len) {
             return currying.call(this, fn, ..._args)
+            // return currying(fn,..._args)
         }
        // 参数全部接收完调用原函数
         return fn.apply(this, _args)
+        // return fn(..._args)
     }
 }
 
