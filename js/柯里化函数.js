@@ -1,55 +1,35 @@
-function curry(fn, ...args) {
-	return function(...innerArgs) {
-		const allArgs = [...args, ...innerArgs];
-		
-		if (fn.length <= allArgs.length) {
-			// 说明已经接受完所有参数，这个时候可以执行了
-			return fn.apply(this, allArgs);
-		} else {
-			// 继续返回函数，收集参数
-			return curry(fn, ...allArgs);
-		}
-	}
+function add(x,y,z){
+    return x+y+z
 }
 
+// 手写一个add的柯里化
+// function curryAdd(x){
+//     return function(y){
+//         return function(z){
+//             return x+y+z
+//         }
+//     }
+// }
 
-// 简单实现，参数只能从右到左传递
-function createCurry(func, args) {
-
-    var arity = func.length;
-    var args = args || [];
-
-    return function() {
-        var _args = [].slice.call(arguments);
-        [].push.apply(_args, args);
-
-        // 如果参数个数小于最初的func.length，则递归调用，继续收集参数
-        if (_args.length < arity) {
-            return createCurry.call(this, func, _args);
-        }
-
-        // 参数收集完毕，则执行func
-        return func.apply(this, _args);
-    }
-}
-
-// 支持多参数传递
-function progressCurrying(fn, args) {
-
-    var _this = this
-    var len = fn.length;
-    var args = args || [];
-
-    return function() {
-        var _args = Array.prototype.slice.call(arguments);
-        Array.prototype.push.apply(args, _args);
-
-        // 如果参数个数小于最初的fn.length，则递归调用，继续收集参数
+const currying = function(fn) {
+    // fn需要的参数个数
+    const len = fn.length
+    // args是这一步已经传入的参数
+    let args = [].slice.call(arguments,1);
+    // 返回一个函数接收剩余参数
+    return function () {
+        // params代表这一步添加的参数
+        let params = [].slice.call(arguments);
+        // 拼接已经接收和新接收的参数列表
+        let _args = [...args, ...params]
+        // 如果已经接收的参数个数还不够，用现有的参数当作初始参数去返回一个新函数，来接收剩余参数
         if (_args.length < len) {
-            return progressCurrying.call(_this, fn, _args);
+            return currying.call(this, fn, ..._args)
         }
-
-        // 参数收集完毕，则执行fn
-        return fn.apply(this, _args);
+       // 参数全部接收完调用原函数
+        return fn.apply(this, _args)
     }
 }
+
+
+let curryadd = currying(add);
