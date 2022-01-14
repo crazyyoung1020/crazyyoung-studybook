@@ -246,6 +246,21 @@
 146. [ ] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
 
 
+#### 2021.1.10-2021.1.13
+
+147. [ ] 合并K个升序链表 [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists )
+148. [ ] 子数组和排序后的区间和 [leetcode](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums )
+149. [ ] 区间和的个数 [leetcode](https://leetcode-cn.com/problems/count-of-range-sum )
+150. [ ] 计算右侧小于当前元素的个数 [leetcode](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self )
+151. [ ] 层数最深叶子节点的和 [leetcode](https://leetcode-cn.com/problems/deepest-leaves-sum)
+
+#### 2021.14-2021.1.16
+
+152. [ ] 最大子序和 [leetcode](https://leetcode-cn.com/problems/maximum-subarray )
+153. [ ] 合并区间 [leetcode](https://leetcode-cn.com/problems/merge-intervals )
+154. [ ] 删除被覆盖区间 [leetcode](https://leetcode-cn.com/problems/remove-covered-intervals )
+155. [ ] 递增子序列 [leetcode](https://leetcode-cn.com/problems/increasing-subsequences )
+156. [ ] 面试题： 求和路径 [leetcode](https://leetcode-cn.com/problems/paths-with-sum-lcci )
 
 
 
