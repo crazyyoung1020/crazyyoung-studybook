@@ -216,51 +216,50 @@
 127. [x] 最长连续序列 [leetcode](https://leetcode-cn.com/problems/longest-consecutive-sequence)
 128. [x] 移除最多的同行或同列石头 [leetcode](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column)
 129. [x] 交换字符串中的元素 [leetcode](https://leetcode-cn.com/problems/smallest-string-with-swaps)
-130. [ ] 账户合并 [leetcode](https://leetcode-cn.com/problems/accounts-merge)
-131. [ ] 情侣牵手 [leetcode](https://leetcode-cn.com/problems/couples-holding-hands)
+130. [x] 账户合并 [leetcode](https://leetcode-cn.com/problems/accounts-merge)
+131. [x] 情侣牵手 [leetcode](https://leetcode-cn.com/problems/couples-holding-hands)
 
 
 #### 2021.12.31-1.3 第二十七套
 
-132. [ ] 冗余连接 II [leetcode](https://leetcode-cn.com/problems/redundant-connection-ii )
-133. [ ] 滑动窗口最大值 [leetcode](https://leetcode-cn.com/problems/sliding-window-maximum )
-134. [ ] 用 Rand7() 实现 Rand10() [leetcode](https://leetcode-cn.com/problems/implement-rand10-using-rand7 )
-135. [ ] 盛最多水的容器 [leetcode](https://leetcode-cn.com/problems/container-with-most-water )
-136. [ ] 字符串解码 [leetcode](https://leetcode-cn.com/problems/decode-string)
+132. [x] 冗余连接 II [leetcode](https://leetcode-cn.com/problems/redundant-connection-ii )
+133. [x] 滑动窗口最大值 [leetcode](https://leetcode-cn.com/problems/sliding-window-maximum )
+134. [x] 用 Rand7() 实现 Rand10() [leetcode](https://leetcode-cn.com/problems/implement-rand10-using-rand7 )
+135. [x] 盛最多水的容器 [leetcode](https://leetcode-cn.com/problems/container-with-most-water )
+136. [x] 字符串解码 [leetcode](https://leetcode-cn.com/problems/decode-string)
 
 #### 2021.1.4-1.5 第二十八套
 
-137. [ ] 394.字符串解码 [leetcode](https://leetcode-cn.com/problems/decode-string )
-138. [ ] 95.不同的二叉搜索树 II [leetcode](https://leetcode-cn.com/problems/unique-binary-search-trees-ii )
-139. [ ] 75.颜色分类 [leetcode](https://leetcode-cn.com/problems/sort-colors )
-140. [ ] 面试题 17.14. 最小K个数 [leetcode](https://leetcode-cn.com/problems/smallest-k-lcci )
-141. [ ] 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [leetcode](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)
+137. [ ] 95.不同的二叉搜索树 II [leetcode](https://leetcode-cn.com/problems/unique-binary-search-trees-ii )
+138. [ ] 75.颜色分类 [leetcode](https://leetcode-cn.com/problems/sort-colors )
+139. [ ] 面试题 17.14. 最小K个数 [leetcode](https://leetcode-cn.com/problems/smallest-k-lcci )
+140. [ ] 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [leetcode](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)
 
 
 #### 2021.1.7-2021.1.9
 
-142. [ ] 排序数组 [leetcode](https://leetcode-cn.com/problems/sort-an-array )
-143. [ ] 剑指 Offer 51. 数组中的逆序对 [leetcode](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof )
-144. [ ] 排序链表 [leetcode](https://leetcode-cn.com/problems/sort-list )
-145. [ ] 两棵二叉搜索树中的所有元素 [leetcode](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees )
-146. [ ] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
+141. [ ] 排序数组 [leetcode](https://leetcode-cn.com/problems/sort-an-array )
+142. [ ] 剑指 Offer 51. 数组中的逆序对 [leetcode](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof )
+143. [ ] 排序链表 [leetcode](https://leetcode-cn.com/problems/sort-list )
+144. [ ] 两棵二叉搜索树中的所有元素 [leetcode](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees )
+145. [ ] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
 
 
 #### 2021.1.10-2021.1.13
 
-147. [ ] 合并K个升序链表 [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists )
-148. [ ] 子数组和排序后的区间和 [leetcode](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums )
-149. [ ] 区间和的个数 [leetcode](https://leetcode-cn.com/problems/count-of-range-sum )
-150. [ ] 计算右侧小于当前元素的个数 [leetcode](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self )
-151. [ ] 层数最深叶子节点的和 [leetcode](https://leetcode-cn.com/problems/deepest-leaves-sum)
+146. [ ] 合并K个升序链表 [leetcode](https://leetcode-cn.com/problems/merge-k-sorted-lists )
+147. [ ] 子数组和排序后的区间和 [leetcode](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums )
+148. [ ] 区间和的个数 [leetcode](https://leetcode-cn.com/problems/count-of-range-sum )
+159. [ ] 计算右侧小于当前元素的个数 [leetcode](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self )
+150. [ ] 层数最深叶子节点的和 [leetcode](https://leetcode-cn.com/problems/deepest-leaves-sum)
 
 #### 2021.14-2021.1.16
 
-152. [ ] 最大子序和 [leetcode](https://leetcode-cn.com/problems/maximum-subarray )
-153. [ ] 合并区间 [leetcode](https://leetcode-cn.com/problems/merge-intervals )
-154. [ ] 删除被覆盖区间 [leetcode](https://leetcode-cn.com/problems/remove-covered-intervals )
-155. [ ] 递增子序列 [leetcode](https://leetcode-cn.com/problems/increasing-subsequences )
-156. [ ] 面试题： 求和路径 [leetcode](https://leetcode-cn.com/problems/paths-with-sum-lcci )
+151. [ ] 最大子序和 [leetcode](https://leetcode-cn.com/problems/maximum-subarray )
+152. [ ] 合并区间 [leetcode](https://leetcode-cn.com/problems/merge-intervals )
+153. [ ] 删除被覆盖区间 [leetcode](https://leetcode-cn.com/problems/remove-covered-intervals )
+154. [ ] 递增子序列 [leetcode](https://leetcode-cn.com/problems/increasing-subsequences )
+155. [ ] 面试题： 求和路径 [leetcode](https://leetcode-cn.com/problems/paths-with-sum-lcci )
 
 
 
