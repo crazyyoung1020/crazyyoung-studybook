@@ -46,3 +46,32 @@ function insertionSort(arr) {
 
 let arr = [1,2,4,5,67,7,8,2,1,1,2,4,5];
 console.log(insertionSort(arr));
+
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+ var sortArray = function(nums) {
+    // 插入排序
+    // cur等待插入的元素
+    // pt是cur当前位置的指针，会随着cur移动
+    let cur,pt;
+    for(let i=0;i<nums.length;i++){
+        cur = nums[i];
+        pt = i;
+        // 如果pt-1>=0，代表cur前面还有数，如果前面都没有数了，肯定也不用再循环了，所以pt-1>=0
+        // 如果cur>nums[pt-1],说明当前项比前一项大，那么也不用移动了，跳出当次插入
+        while(pt-1>=0&&cur<nums[pt-1]){
+            // 如果cur 小于 前一项，那么将cur对应的pt位置的元素赋值为pt-1的值，不用担心pt位置元素丢，pt位置元素一直保存在cur变量里；这里也可以理解为pt位置就是一个空的，值一开始就被拿走了。
+            nums[pt] = nums[pt-1];
+            pt--
+        }
+        // 然后再讲cur放回到pt位置，就完成了一次插入操作。
+        // 这里可以做一个判断，如果pt!=i,那么再赋值，否则说明cur根本都没有移动
+        if(pt != i){
+            nums[pt] = cur;
+        }
+    }
+    return nums;
+};

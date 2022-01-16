@@ -8,8 +8,8 @@
 1. [x] 选择排序法(selectionSort)
 2. [x] 插入排序法([insertionSort](https://github.com/crazyyoung1020/algorithm/blob/main/insertionSort.js))
 3. [x] 冒泡排序法(bubbleSort)
-4. [ ] 希尔排序法(shellSort)
-5. [ ] 快速排序法(quickSort)
+4. [x] 希尔排序法(shellSort)
+5. [x] 快速排序法(quickSort)
 
 <hr>
 
