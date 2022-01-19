@@ -253,7 +253,7 @@
 159. [ ] 计算右侧小于当前元素的个数 [leetcode](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self )
 150. [ ] 层数最深叶子节点的和 [leetcode](https://leetcode-cn.com/problems/deepest-leaves-sum)
 
-#### 2021.14-2021.1.16
+#### 2021.1.14-2021.1.18
 
 151. [ ] 最大子序和 [leetcode](https://leetcode-cn.com/problems/maximum-subarray )
 152. [ ] 合并区间 [leetcode](https://leetcode-cn.com/problems/merge-intervals )
@@ -262,8 +262,13 @@
 155. [ ] 面试题： 求和路径 [leetcode](https://leetcode-cn.com/problems/paths-with-sum-lcci )
 
 
+#### 2021.1.19-2021.1.23
 
-
+156. [ ] 课程表 [leetcode](https://leetcode-cn.com/problems/course-schedule/ )
+157. [ ] 课程表 [leetcode](II https://leetcode-cn.com/problems/course-schedule-ii/ )
+158. [ ] 数组的相对排序 [leetcode](https://leetcode-cn.com/problems/relative-sort-array/ )
+159. [ ] 最大间距 [leetcode](https://leetcode-cn.com/problems/maximum-gap/ )
+160. [ ] H 指数 [leetcode](https://leetcode-cn.com/problems/h-index/)
 
 
 
