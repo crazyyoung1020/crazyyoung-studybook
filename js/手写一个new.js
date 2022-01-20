@@ -1,8 +1,9 @@
 function myNew(Fn){
-    let obj = {};
-    obj.__proto__ = Fn.prototype;
+    let obj = {};// 第一步，开辟内存空间，声明一个新的空对象
+    obj.__proto__ = Fn.prototype; // 第二步，将新对象的__proto__指向Fn的原型对象，即将obj放到Fn的原型链上
     let arg = Array.from(arguments).slice(1);
-    let result = Fn.apply(obj,arg);
+    let result = Fn.apply(obj,arg);// 第三部，改变Fn内部的this指针，指向这个新的对象，并执行Fn构造函数，为obj增加属性
+    // 第四部，判断当前的结果是否为对象，即构造函数内是否有返回对象，如果有则直接返回，如果没有则返回这个新的obj
     if(Object.prototype.toString.call(result) === '[object Object]'){
       return result
     }
