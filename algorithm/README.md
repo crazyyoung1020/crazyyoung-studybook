@@ -35,7 +35,7 @@
 
 #### 2021.11.06-2021.11.07 第四套
 
-16. [ ] 平衡二叉树 [leetcode地址](https://leetcode-cn.com/problems/balanced-binary-tree)
+16. [x] 平衡二叉树 [leetcode地址](https://leetcode-cn.com/problems/balanced-binary-tree)
 17. [ ] 二叉树的深度 [leetcode地址](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)
 18. [x] 搜索插入位置 [leetcode地址](https://leetcode-cn.com/problems/search-insert-position/)
 19. [x] 罗马数字转整数 [leetcode地址](https://leetcode-cn.com/problems/roman-to-integer)
