@@ -262,7 +262,7 @@
 155. [ ] 面试题： 求和路径 [leetcode](https://leetcode-cn.com/problems/paths-with-sum-lcci )
 
 
-#### 2021.1.19-2021.1.23
+#### 2021.1.19-2021.1.20
 
 156. [ ] 课程表 [leetcode](https://leetcode-cn.com/problems/course-schedule/ )
 157. [ ] 课程表 [leetcode](II https://leetcode-cn.com/problems/course-schedule-ii/ )
@@ -271,4 +271,10 @@
 160. [ ] H 指数 [leetcode](https://leetcode-cn.com/problems/h-index/)
 
 
+#### 2022.1.22-2022.1.23
 
+161. [ ] 划分字母区间 [leetcode](https://leetcode-cn.com/problems/partition-labels/)
+162. [ ] 面试题 16.16. 部分排序 [leetcode](https://leetcode-cn.com/problems/sub-sort-lcci/)
+163. [ ] 最长同值路径 [leetcode](https://leetcode-cn.com/problems/longest-univalue-path/)
+164. [ ] 最大数 [leetcode](https://leetcode-cn.com/problems/largest-number/)
+165. [ ] 前 K 个高频元素[leetcode]( https://leetcode-cn.com/problems/top-k-frequent-elements/)
