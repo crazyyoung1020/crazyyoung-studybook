@@ -1,8 +1,8 @@
 # crazyyoung学习手册
 
 - Phase001 算法
-
-  
+	- 2021.1.29
+			学习全栈课 vue组件化开发，输出[processon思维导图](https://www.processon.com/view/link/61f414075653bb06de122ea1)
 
   - 2021.12.29
       手写堆排序，实现大顶堆和小顶堆。
