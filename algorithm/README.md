@@ -278,7 +278,7 @@
 
 #### 2022.1.24-2.22.1.27
 
-166. [ ] 字符频次唯一的最小删除次数 [leetcode](https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+166. [x] 字符频次唯一的最小删除次数 [leetcode](https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 167. [x] 移动零 [leetcode](https://leetcode-cn.com/problems/move-zeroes/)
 168. [x] 面试题 10.01. 合并排序的数组 [leetcode](https://leetcode-cn.com/problems/sorted-merge-lcci/)
 169. [x] 数组拆分 I [leetcode](https://leetcode-cn.com/problems/array-partition-i/)
