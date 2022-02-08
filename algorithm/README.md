@@ -242,7 +242,7 @@
 142. [x] 剑指 Offer 51. 数组中的逆序对 [leetcode](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof)
 143. [x] 排序链表 [leetcode](https://leetcode-cn.com/problems/sort-list)
 144. [x] 两棵二叉搜索树中的所有元素 [leetcode](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees)
-145. [ ] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
+145. [x] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
 
 #### 2021.1.10-2021.1.13
 
@@ -304,8 +304,8 @@
 
 #### 2022.2.8-2022.2.9
 
-186. [ ] 设计哈希集合 https://leetcode-cn.com/problems/design-hashset/
-187. [ ] 设计哈希映射 https://leetcode-cn.com/problems/design-hashmap/
-188. [ ] 面试题 LRU 缓存 https://leetcode-cn.com/problems/lru-cache-lcci/
-189. [ ] TinyURL 的加密与解密 https://leetcode-cn.com/problems/encode-and-decode-tinyurl/
-190. [ ] 重复的 DNA 序列 https://leetcode-cn.com/problems/repeated-dna-sequences/
+186. [ ] 设计哈希集合 [leetcode](https://leetcode-cn.com/problems/design-hashset/)
+187. [ ] 设计哈希映射 [leetcode](https://leetcode-cn.com/problems/design-hashmap/)
+188. [ ] 面试题 LRU 缓存 [leetcode](https://leetcode-cn.com/problems/lru-cache-lcci/)
+189. [ ] TinyURL 的加密与解密 [leetcode](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/)
+190. [ ] 重复的 DNA 序列 [leetcode](https://leetcode-cn.com/problems/repeated-dna-sequences/)
