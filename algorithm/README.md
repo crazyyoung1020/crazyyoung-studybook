@@ -240,8 +240,8 @@
 
 141. [x] 排序数组 [leetcode](https://leetcode-cn.com/problems/sort-an-array)
 142. [x] 剑指 Offer 51. 数组中的逆序对 [leetcode](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof)
-143. [ ] 排序链表 [leetcode](https://leetcode-cn.com/problems/sort-list)
-144. [ ] 两棵二叉搜索树中的所有元素 [leetcode](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees)
+143. [x] 排序链表 [leetcode](https://leetcode-cn.com/problems/sort-list)
+144. [x] 两棵二叉搜索树中的所有元素 [leetcode](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees)
 145. [ ] 面试题 04.08. 首个共同祖先 [leetcode](https://leetcode-cn.com/problems/first-common-ancestor-lcci)
 
 #### 2021.1.10-2021.1.13
@@ -286,18 +286,26 @@
 
 #### 2022.1.28-2022.1.31
 
-171. [ ] Sqrt(x) https://leetcode-cn.com/problems/sqrtx/
-172. [ ] 搜索插入位置 https://leetcode-cn.com/problems/search-insert-position/
-173. [ ] 两数之和 https://leetcode-cn.com/problems/two-sum/
-174. [ ] 在排序数组中查找元素的第一个和最后一个位置 https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-175. [ ] 将 x 减到 0 的最小操作数 https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/
-176. [ ] 供暖器 https://leetcode-cn.com/problems/heaters/
-177. [ ] 搜索旋转排序数组 II https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
-178. [ ] 寻找两个正序数组的中位数 https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
-179. [ ] 最长递增子序列 https://leetcode-cn.com/problems/longest-increasing-subsequence/
-180. [ ] 在 D 天内送达包裹的能力 https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/
-181. [ ] 最大单词长度乘积 https://leetcode-cn.com/problems/maximum-product-of-word-lengths/
-182. [ ] 搜索二维矩阵 II https://leetcode-cn.com/problems/search-a-2d-matrix-ii/
-183. [ ] 在二叉树中分配硬币 https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/
-184. [ ] 扁平化多级双向链表 https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
-185. [ ] 二叉树中所有距离为 K 的结点 https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/
+171. [ ] Sqrt(x) [leetcode](https://leetcode-cn.com/problems/sqrtx/)
+172. [ ] 搜索插入位置 [leetcode](https://leetcode-cn.com/problems/search-insert-position/)
+173. [ ] 两数之和 [leetcode](https://leetcode-cn.com/problems/two-sum/)
+174. [ ] 在排序数组中查找元素的第一个和最后一个位置 [leetcode](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+175. [ ] 将 x 减到 0 的最小操作数 [leetcode](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/)
+176. [ ] 供暖器 [leetcode](https://leetcode-cn.com/problems/heaters/)
+177. [ ] 搜索旋转排序数组 II [leetcode](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
+178. [ ] 寻找两个正序数组的中位数 [leetcode](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+179. [ ] 最长递增子序列 [leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+180. [ ] 在 D 天内送达包裹的能力 [leetcode](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)
+181. [x] 最大单词长度乘积 [leetcode](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)
+182. [ ] 搜索二维矩阵 II [leetcode](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
+183. [ ] 在二叉树中分配硬币 [leetcode](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/)
+184. [ ] 扁平化多级双向链表 [leetcode](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)
+185. [ ] 二叉树中所有距离为 K 的结点 [leetcode](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)
+
+#### 2022.2.8-2022.2.9
+
+186. [ ] 设计哈希集合 https://leetcode-cn.com/problems/design-hashset/
+187. [ ] 设计哈希映射 https://leetcode-cn.com/problems/design-hashmap/
+188. [ ] 面试题 LRU 缓存 https://leetcode-cn.com/problems/lru-cache-lcci/
+189. [ ] TinyURL 的加密与解密 https://leetcode-cn.com/problems/encode-and-decode-tinyurl/
+190. [ ] 重复的 DNA 序列 https://leetcode-cn.com/problems/repeated-dna-sequences/
