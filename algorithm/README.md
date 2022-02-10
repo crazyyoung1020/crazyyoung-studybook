@@ -37,24 +37,24 @@
 #### 2021.11.06-2021.11.07 第四套
 
 16. [x] 平衡二叉树 [leetcode 地址](https://leetcode-cn.com/problems/balanced-binary-tree)
-17. [ ] 二叉树的深度 [leetcode 地址](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)
+17. [x] 二叉树的深度 [leetcode 地址](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)
 18. [x] 搜索插入位置 [leetcode 地址](https://leetcode-cn.com/problems/search-insert-position/)
 19. [x] 罗马数字转整数 [leetcode 地址](https://leetcode-cn.com/problems/roman-to-integer)
-20. [ ] 反转字符串 [leetcode 地址](https://leetcode-cn.com/problems/reverse-string/)
+20. [x] 反转字符串 [leetcode 地址](https://leetcode-cn.com/problems/reverse-string/)
 
 <hr>
 
 #### 2021.11.08-2021.11.09 第五套
 
 21. [x] 从尾到头打印链表 [leetcode 地址](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)
-22. [ ] 返回倒数第 k 个节点 [leetcoe 地址](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
+22. [x] 返回倒数第 k 个节点 [leetcoe 地址](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 23. [x] 环形链表 [leetcode 地址](https://leetcode-cn.com/problems/linked-list-cycle/)
 24. [ ] K 个一组翻转链表 [leetcode 地址](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
 25. [x] 只出现一次的数字 [leetcode 地址](https://leetcode-cn.com/problems/WGki4K)
 
 #### 2021.11.10-2021.11.11 第六套
 
-26. [ ] 两数平方和[leetcode](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)
+26. [x] 两数平方和[leetcode](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)
 27. [x] 二路归并排序[leetcode](https://leetcode-cn.com/problems/sort-an-array/)
 28. [x] 二分查找 [leetcode](https://leetcode-cn.com/problems/binary-search)
 29. [ ] 哈希\_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
