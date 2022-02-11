@@ -57,7 +57,7 @@
 26. [x] 两数平方和[leetcode](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)
 27. [x] 二路归并排序[leetcode](https://leetcode-cn.com/problems/sort-an-array/)
 28. [x] 二分查找 [leetcode](https://leetcode-cn.com/problems/binary-search)
-29. [ ] 哈希\_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
+29. [x] 哈希\_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
 30. [ ] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
 
 #### 2021.11.12-2021.11.14 第七套
@@ -309,3 +309,11 @@
 188. [ ] 面试题 LRU 缓存 [leetcode](https://leetcode-cn.com/problems/lru-cache-lcci/)
 189. [ ] TinyURL 的加密与解密 [leetcode](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/)
 190. [ ] 重复的 DNA 序列 [leetcode](https://leetcode-cn.com/problems/repeated-dna-sequences/)
+
+#### 2022.2.11-2022.2.13
+
+191. [ ] 被围绕的区域 [leetcode](https://leetcode-cn.com/problems/surrounded-regions/)
+192. [ ] 目标和 [leetcode](https://leetcode-cn.com/problems/target-sum/)
+193. [ ] 火柴拼正方形 [leetcode](https://leetcode-cn.com/problems/matchsticks-to-square/)
+194. [ ] 组合总和 [leetcode](https://leetcode-cn.com/problems/combination-sum/)
+195. [ ] N 皇后 [leetcode](https://leetcode-cn.com/problems/n-queens/)
