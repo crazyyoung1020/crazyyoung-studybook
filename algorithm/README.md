@@ -63,7 +63,7 @@
 #### 2021.11.12-2021.11.14 第七套
 
 31. [ ] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
-32. [ ] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
+32. [x] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
 33. [ ] 两节点的最长路径[leetcode](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)
 34. [ ] 两个字符串包含的字符是否完全相同[leetcode](https://leetcode-cn.com/problems/valid-anagram/description/)
 35. [ ] 计算一组字符集合可以组成的回文字符串的最大长度[leetcode](https://leetcode-cn.com/problems/longest-palindrome/description/)
