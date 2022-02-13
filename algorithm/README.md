@@ -58,11 +58,11 @@
 27. [x] 二路归并排序[leetcode](https://leetcode-cn.com/problems/sort-an-array/)
 28. [x] 二分查找 [leetcode](https://leetcode-cn.com/problems/binary-search)
 29. [x] 哈希\_两数之和[leetcode](https://leetcode-cn.com/problems/two-sum/)
-30. [ ] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
+30. [x] 最长递增子序列[leetcode](https://leetcode-cn.com/problems/longest-increasing-subsequence)
 
 #### 2021.11.12-2021.11.14 第七套
 
-31. [ ] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
+31. [x] 桶排序 [leetcode](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)
 32. [x] 快乐数 [leetcode](https://leetcode-cn.com/problems/happy-number/)
 33. [ ] 两节点的最长路径[leetcode](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)
 34. [ ] 两个字符串包含的字符是否完全相同[leetcode](https://leetcode-cn.com/problems/valid-anagram/description/)
