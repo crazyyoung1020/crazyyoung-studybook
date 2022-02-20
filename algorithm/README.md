@@ -72,9 +72,9 @@
 
 36. [ ] 最长公共子序列 [leetcode](https://leetcode-cn.com/problems/qJnOS7/)
 37. [x] 买卖股票的最佳时机 [leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
-38. [ ] 使用最小花费爬楼梯[leetcode](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
-39. [ ] 翻转二叉树[leetcode 地址](https://leetcode-cn.com/problems/invert-binary-tree/)
-40. [ ] 回文子字符串个数[leetcode](https://leetcode-cn.com/problems/palindromic-substrings/description/)
+38. [x] 使用最小花费爬楼梯[leetcode](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+39. [x] 翻转二叉树[leetcode 地址](https://leetcode-cn.com/problems/invert-binary-tree/)
+40. [x] 回文子字符串个数[leetcode](https://leetcode-cn.com/problems/palindromic-substrings/description/)
 
 #### 2021.11.17-11.18 第九套
 
@@ -86,8 +86,8 @@
 
 #### 2021.11.22-11.23 第十套
 
-46. [ ] 二叉树的后序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
-47. [ ] 验证二叉树的前序序列化[leetcode](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+46. [x] 二叉树的后序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+47. [x] 验证二叉树的前序序列化[leetcode](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 48. [ ] 基本计算器 II[leetcode](https://leetcode-cn.com/problems/basic-calculator-ii/)
 49. [ ] 函数的独占时间[leetcode](https://leetcode-cn.com/problems/exclusive-time-of-functions/)
 50. [ ] 表现良好的最长时间段 [leetcode](https://leetcode-cn.com/problems/longest-well-performing-interval/)
