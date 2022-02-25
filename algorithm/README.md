@@ -88,7 +88,7 @@
 
 46. [x] 二叉树的后序遍历[leetcode](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 47. [x] 验证二叉树的前序序列化[leetcode](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
-48. [ ] 基本计算器 II[leetcode](https://leetcode-cn.com/problems/basic-calculator-ii/)
+48. [x] 基本计算器 II[leetcode](https://leetcode-cn.com/problems/basic-calculator-ii/)
 49. [ ] 函数的独占时间[leetcode](https://leetcode-cn.com/problems/exclusive-time-of-functions/)
 50. [ ] 表现良好的最长时间段 [leetcode](https://leetcode-cn.com/problems/longest-well-performing-interval/)
 
