@@ -169,7 +169,7 @@
 
 97. [ ] 平衡二叉树[leetcode](https://leetcode-cn.com/problems/balanced-binary-tree)
 98. [ ] Offer 40. 最小的 k 个数[leetcode](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof)
-99. [ ] 最后一块石头的重量[leetcode](https://leetcode-cn.com/problems/last-stone-weight)
+99. [x] 最后一块石头的重量[leetcode](https://leetcode-cn.com/problems/last-stone-weight)
 100.  [ ] 数据流中的第 K 大元素[leetcode](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream)
 101.  [ ] 查找和最小的 K 对数字[leetcode](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)
 
@@ -287,7 +287,7 @@
 #### 2022.1.28-2022.1.31
 
 171. [ ] Sqrt(x) [leetcode](https://leetcode-cn.com/problems/sqrtx/)
-172. [ ] 搜索插入位置 [leetcode](https://leetcode-cn.com/problems/search-insert-position/)
+172. [x] 搜索插入位置 [leetcode](https://leetcode-cn.com/problems/search-insert-position/)
 173. [ ] 两数之和 [leetcode](https://leetcode-cn.com/problems/two-sum/)
 174. [ ] 在排序数组中查找元素的第一个和最后一个位置 [leetcode](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 175. [ ] 将 x 减到 0 的最小操作数 [leetcode](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/)
@@ -338,6 +338,6 @@
 
 206. [ ] 剑指 Offer：旋转数组的最小数字 [leetcode](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/ )
 207. [ ] 找到 K 个最接近的元素 [leetcode](https://leetcode-cn.com/problems/find-k-closest-elements/ )
-208. [ ] 分糖果 [leetcode](https://leetcode-cn.com/problems/distribute-candies/ )
+208. [x] 分糖果 [leetcode](https://leetcode-cn.com/problems/distribute-candies/ )
 209. [ ] 保证文件名唯一 [leetcode](https://leetcode-cn.com/problems/making-file-names-unique/ )
 210. [ ] 最小高度树 [leetcode](https://leetcode-cn.com/problems/minimum-height-trees/)
