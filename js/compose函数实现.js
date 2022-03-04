@@ -26,7 +26,7 @@ var flowRight = function(funcs) {
 var compose = function(...args) {
     // 传入的函数列表的长度
     var len = args.length
-    // 最后一个函数的下表
+    // 最后一个函数的下标
     var count = len - 1
     // 处理的结果
     var result
