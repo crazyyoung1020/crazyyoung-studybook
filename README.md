@@ -1,5 +1,12 @@
 # crazyyoung学习手册
 
+- Phase003 interview
+
+    - 2022.3.10
+
+        看一遍http各个版本的对比，理解消化了以下，但是还未梳理出笔记
+        大致学习了以下typescript的接口简单的使用
+
 - Phase002 vue
 
     - 2022.3.5
