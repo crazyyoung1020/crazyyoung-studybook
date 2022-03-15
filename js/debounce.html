@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <input type="text" id="name"/>
+  </div>
+  <script>
+    function ajax(value){
+      console.log(value[0])
+    }
+
+
+    /**
+     * 非立即执行防抖
+     * 触发之后，不会立即执行，在最后一次触发的指定时间间隔后执行函数
+    */
+    // function debounce(func, delay) {
+    //   // 定义一个定时器，开始是undefined；
+    //   // 这里是利用了闭包，把定时器保存在了闭包函数内
+    //   let timeout;
+    //   return function() {
+    //     // 如果执行的时候，发现有定时器，那么说明这次触发是在delay时间间隔内的
+    //     // 这就是我们要节流的场景，那我们把定时器清除掉
+    //     // 这里timeout要注意，首次进来是undefined，后面再进来就是数字，从1开始1、2、3这样
+    //     if(timeout) {
+    //       console.log('timeout-before', timeout);
+    //       // clearTimeout实际上就是clear掉它对应的数字，这里的timeout就是一个数字而已
+    //       clearTimeout(timeout);
+    //       console.log('timeout-after', timeout);
+    //     }
+    //     // 首次或重新开一个定时器
+    //     timeout = setTimeout(()=>{
+    //       func.call(this, arguments)
+    //     }, delay)
+    //   }
+    // }
+
+    /**
+     * 立即执行防抖
+     * 触发后立即执行，并且后序指定时间间隔内触发不会执行，超过时间间隔后才能再执行
+    */
+    // function debounce(func, delay){
+    //   // 用闭包保存定时器
+    //   let timeout;
+    //   return function(){
+    //     // 把定时器清楚
+    //     if(timeout){
+    //       clearTimeout(timeout);
+    //     }
+    //     // 只要不是首次进来，timeout一定是一个正整数，所以首次进来flag为true，后面就都是false
+    //     let flag = !timeout;
+    //     timeout = setTimeout(()=>{
+    //       // delay后给timeout置为null，那么也就是flag会为true，也就是delay之后，func才能再触发
+    //       // 在delay期间，flag都是false，后面的func就触发不了了
+    //       timeout = null;
+    //     },delay);
+    //     if(flag){
+    //       func.call(this, arguments)
+    //     }
+    //   }
+    // }
+
+    /**
+     * 可配置版本防抖，可以配置立即执行或者非立即执行
+     * 是上面两个的结合体，用一个immediate来做配置判断
+    */
+
+    function debounce(func, delay, immediate){
+      let timeout;
+      return function(){
+        if(timeout){
+          clearTimeout(timeout);
+        }
+        if(immediate){
+          let flag = !timeout;
+          timeout = setTimeout(()=>{
+            timeout = null;
+          },delay)
+          if(flag){
+            func.call(this, arguments);
+          }
+        }else{
+          timeout = setTimeout(()=>{
+            func.call(this, arguments);
+          },delay)
+        }
+      }
+    }
+
+    let debounceAjax = debounce(ajax,500,true);
+    document.querySelector('#name').addEventListener('keyup',(e)=>{
+      debounceAjax(e.target.value);
+    })
+  </script>
+</body>
+</html>
