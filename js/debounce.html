@@ -88,6 +88,7 @@
         }else{
           timeout = setTimeout(()=>{
             func.call(this, arguments);
+            timeout = null;// 这句有和没有都可以，问题不大
           },delay)
         }
       }

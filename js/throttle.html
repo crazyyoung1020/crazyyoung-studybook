@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <input type="text" id="name"/>
+  </div>
+  <script>
+// 模仿一段ajax请求
+function ajax(value){
+    console.log("ajax request: " + value + ", time: " + new Date());
+  }
+
+  /**
+   * 节流--定时器版
+  */
+  // function throttle(func,delay){
+  //   let timeout;//定义一个定时器标记
+  //   return function(arguments){
+  //     // 判断是否存在定时器
+  //     if(!timeout){ 
+  //       // 创建一个定时器
+  //       timeout = setTimeout(()=>{
+  //         // delay时间间隔清空定时器
+  //         timeout = null;
+  //         func.call(this,arguments);
+  //       },delay)
+  //     }
+  //   }
+  // }
+
+  /**
+   * 节流--时间戳版本
+  */
+ function throttle(func,delay){
+  // 保存上次触发时间
+  let previous = 0;
+   return function(){
+     // 当前时间
+     let now = Date.now();
+     // 当前时间与上次触发时间大于时间间隔则触发，并重置上次触发时间
+     if(now -previous > delay){
+       func.call(this,arguments);
+       previous = now;
+     }
+   }
+ }
+
+  const inputBox = document.getElementById("name");
+  // 使用节流函数进行封装ajax
+  let throttleAjax = throttle(ajax,1000);
+  inputBox.addEventListener("keyup",e=>{
+    throttleAjax(e.target.value);
+  })
+  </script>
+</body>
+</html>
