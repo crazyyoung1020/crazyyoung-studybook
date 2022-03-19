@@ -25,12 +25,19 @@ function axios(url,opts,data){
   })
 }
 
-let url = '';
+// let url = '';
 let data = {}
-let opts = {
-  method:'POST',
-  headers:{'Content-Type': 'application/json'}
+// let opts = {
+  // method:'POST',
+  // headers:{'Content-Type': 'application/json'}
+// }
+
+
+async function request(url,opts){
+  opts = opts ? opts : {};
+  let data = await axios(url)
+  // debugger;
+  console.log(data);
 }
-axios(url,opts,postData).then((res)=>{
-  console.log(res);
-})
+
+request(url);
