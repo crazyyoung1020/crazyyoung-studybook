@@ -1,15 +1,14 @@
-let arr = [1,2,3,2,1,2,3,4,5,7,8,9,7]
+let arr = [1, 2, 3, 2, 1, 2, 3, 4, 5, 7, 8, 9, 7];
 let map = new Map();
-map.set('a',1);
-map.set('b',2);
+map.set('a', 1);
+map.set('b', 2);
 
-let obj = {a:1,b:2,c:3};
+let obj = { a: 1, b: 2, c: 3 };
 let obj1 = Object.create(obj);
 obj1.e = 2;
 obj1.d = 3;
 
-
-function traverse(){
+function traverse() {
   // while循环是可以break、continue的
   // while(arr.length>0){
   //   let temp = arr.shift();
@@ -24,19 +23,18 @@ function traverse(){
   // 其他字符串会以安装到对象的顺序类执行
   // 也可以使用break、continue
   // 会遍历继承的属性，先遍历自己的属性，再遍历继承的属性
-  for(let key in obj1){
-    if(key === 'c'){
-      continue;
-    }
-    console.log(key, obj1[key]);
-  }
+  // for(let key in obj1){
+  //   if(key === 'c'){
+  //     continue;
+  //   }
+  //   console.log(key, obj1[key]);
+  // }
 
   // for of,可以遍历任何带有iterator的对象,数组、map、set、arguments、类数组等
   // 当遍历数组时，直接遍历出value，遍历map时，可以遍历出[key,value],也可以遍历出entry，entry为[key,value]
   // for(let [key,value] of map){
   //   console.log(key,value);
   // }
-
 
   // for(let value of arr){
   //   console.log(value);
@@ -71,6 +69,13 @@ function traverse(){
   // })
   // console.log(a)
 
+  // 指定this示例
+  // let a = [2, 8, 3, 4, 1, 3, 2, 9].filter(function (item) {
+  //   console.log(this)
+  //   if (item > this.MAX) return true;
+  // }, { MAX: 3 })
+  // console.log(a);
+
   // some,用于判断整个数组的所有项，是否能找出一个满足指定条件，满足则返回true；
   // let hasValueOver8 = arr.some((item)=>{
   //   return item>8
@@ -84,8 +89,23 @@ function traverse(){
   //   return sum + cur
   // },5)
   // console.log(a);
+
+  // find和findIndex
+  // find用于寻找数组中第一个满足条件的元素
+  // findIndex用于寻找数组中第一个满足条件的元素的下标
+  // let firstItemOver3 = [1,2,3,4,5].find((item)=>{
+  //   return item>3
+  // })
+  // console.log(firstItemOver3)
+
+  let firstItemIndexOver3 = [1, 2, 3, 4, 5].findIndex(
+    function (item) {
+      console.log(this);
+      return item > 3;
+    },
+    { a: 1 }
+  );
+  console.log(firstItemIndexOver3);
 }
-
-
 
 traverse();
