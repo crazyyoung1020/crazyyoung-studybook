@@ -1,0 +1,26 @@
+{
+  "name": "crazyyoung-studybook",
+  "version": "1.0.0",
+  "description": "- Phase003 interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyyoung1020/crazyyoung-studybook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazyyoung1020/crazyyoung-studybook/issues"
+  },
+  "homepage": "https://github.com/crazyyoung1020/crazyyoung-studybook#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
